@@ -35,3 +35,8 @@ docker build -t arch-vps -f Dockerfile.arch . \
 main : bot-script.py
 
 □■■■□■■■□■■■□■■■□■■■□■■■□■■■□■■■□
+
+## Credits
+
+- Thanks ,Niwely
+- made by made by hycroedev
